@@ -102,6 +102,12 @@
       "goodLevel": 4,
       "maxLevel": 5
     },
+    "dedication": {
+      "loreName": "Dedication",
+      "nbtName": "dedication",
+      "goodLevel": 3,
+      "maxLevel": 4
+    },
     "delicate": {
       "loreName": "Delicate",
       "nbtName": "delicate",
@@ -210,6 +216,12 @@
       "goodLevel": 5,
       "maxLevel": 7
     },
+    "green thumb": {
+      "loreName": "Green Thumb",
+      "nbtName": "green thumb",
+      "goodLevel": 5,
+      "maxLevel": 5
+    },
     "growth": {
       "loreName": "Growth",
       "nbtName": "growth",
@@ -227,6 +239,12 @@
       "nbtName": "hardened_mana",
       "goodLevel": 9,
       "maxLevel": 10
+    },
+    "ice cold": {
+      "loreName": "Ice Cold",
+      "nbtName": "ice cold",
+      "goodLevel": 0,
+      "maxLevel": 5
     },
     "impaling": {
       "loreName": "Impaling",
@@ -306,6 +324,12 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "pesterminator": {
+      "loreName": "Pesterminator",
+      "nbtName": "pesterminator",
+      "goodLevel": 5,
+      "maxLevel": 6
+    },
     "piercing": {
       "loreName": "Piercing",
       "nbtName": "piercing",
@@ -336,6 +360,12 @@
       "goodLevel": 5,
       "maxLevel": 6
     },
+    "prosperity": {
+      "loreName": "Prosperity",
+      "nbtName": "prosperity",
+      "goodLevel": 3,
+      "maxLevel": 5
+    },
     "protection": {
       "loreName": "Protection",
       "nbtName": "protection",
@@ -347,6 +377,18 @@
       "nbtName": "punch",
       "goodLevel": 2,
       "maxLevel": 2
+    },
+    "quantum": {
+      "loreName": "Quantum",
+      "nbtName": "quantum",
+      "goodLevel": 3,
+      "maxLevel": 5
+    },
+    "reflection": {
+      "loreName": "Reflection",
+      "nbtName": "reflection",
+      "goodLevel": 0,
+      "maxLevel": 5
     },
     "rainbow": {
       "loreName": "Rainbow",
@@ -432,6 +474,12 @@
       "goodLevel": 0,
       "maxLevel": 3
     },
+    "sunder": {
+      "loreName": "Sunder",
+      "nbtName": "sunder",
+      "goodLevel": 5,
+      "maxLevel": 6
+    },
     "syphon": {
       "loreName": "Syphon",
       "nbtName": "syphon",
@@ -479,6 +527,12 @@
       "nbtName": "titan_killer",
       "goodLevel": 5,
       "maxLevel": 7
+    },
+    "transylvanian": {
+      "loreName": "Transylvanian",
+      "nbtName": "transylvanian",
+      "goodLevel": 4,
+      "maxLevel": 5
     },
     "triple-strike": {
       "loreName": "Triple-Strike",
@@ -614,6 +668,12 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "flowstate": {
+      "loreName": "Flowstate",
+      "nbtName": "ultimate_flowstate",
+      "goodLevel": 0,
+      "maxLevel": 3
+    },
     "habanero tactics": {
       "loreName": "Habanero Tactics",
       "nbtName": "ultimate_habanero_tactics",
@@ -650,6 +710,12 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "refrigerate": {
+      "loreName": "Refrigerate",
+      "nbtName": "ultimate_refrigerate",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "rend": {
       "loreName": "Rend",
       "nbtName": "ultimate_rend",
@@ -665,6 +731,12 @@
     "swarm": {
       "loreName": "Swarm",
       "nbtName": "ultimate_swarm",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "the one": {
+      "loreName": "The One",
+      "nbtName": "ultimate_the_one",
       "goodLevel": 0,
       "maxLevel": 5
     },
@@ -725,6 +797,15 @@
       "goodLevel": 0,
       "maxLevel": 10,
       "statLabel": "championCombatXp",
+      "stackLevel": [0, 50000, 100000, 250000, 500000, 1000000, 1500000, 2000000, 2500000, 3000000]
+    },
+    "toxophilite": {
+      "loreName": "Toxophilite",
+      "nbtName": "toxophilite",
+      "nbtNum": "toxophilite_combat_xp",
+      "goodLevel": 0,
+      "maxLevel": 10,
+      "statLabel": "toxophiliteCombatXp",
       "stackLevel": [0, 50000, 100000, 250000, 500000, 1000000, 1500000, 2000000, 2500000, 3000000]
     }
   }
