@@ -264,6 +264,12 @@
       "goodLevel": 2,
       "maxLevel": 2
     },
+    "lapidary": {
+      "loreName": "Lapidary",
+      "nbtName": "lapidary",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "lethality": {
       "loreName": "Lethality",
       "nbtName": "lethality",
@@ -324,6 +330,12 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "paleontologist": {
+      "loreName": "Paleontologist",
+      "nbtName": "paleontologist",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "pesterminator": {
       "loreName": "Pesterminator",
       "nbtName": "pesterminator",
@@ -336,15 +348,21 @@
       "goodLevel": 1,
       "maxLevel": 1
     },
+    "piscary": {
+      "loreName": "Piscary",
+      "nbtName": "piscary",
+      "goodLevel": 5,
+      "maxLevel": 6
+    },
     "power": {
       "loreName": "Power",
       "nbtName": "power",
       "goodLevel": 5,
       "maxLevel": 7
     },
-    "pristine": {
-      "loreName": "Pristine",
-      "nbtName": "pristine",
+    "prismatic": {
+      "loreName": "Prismatic",
+      "nbtName": "prismatic",
       "goodLevel": 0,
       "maxLevel": 5
     },
