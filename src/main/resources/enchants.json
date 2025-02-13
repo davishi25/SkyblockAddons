@@ -412,7 +412,7 @@
       "loreName": "Rainbow",
       "nbtName": "rainbow",
       "goodLevel": 1,
-      "maxLevel": 2
+      "maxLevel": 3
     },
     "rejuvenate": {
       "loreName": "Rejuvenate",
@@ -455,6 +455,12 @@
       "nbtName": "silk_touch",
       "goodLevel": 1,
       "maxLevel": 1
+    },
+    "small brain": {
+      "loreName": Small Brain",
+      "nbtName": "small_brain",
+      "goodLevel": 5,
+      "maxLevel": 5
     },
     "smarty pants": {
       "loreName": "Smarty Pants",
